@@ -33,8 +33,8 @@ graphicsMode:1
 ao:2
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["vanilla","mod_resources","openloader/resources/simis_edits"]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","mod_resources","openloader/resources/simis_edits","file/Slightly-Improved-Font-1.1.3.zip"]
+incompatibleResourcePacks:["file/Slightly-Improved-Font-1.1.3.zip"]
 lastServer:
 lang:en_us
 chatVisibility:0
